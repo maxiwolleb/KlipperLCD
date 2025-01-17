@@ -126,7 +126,7 @@ A more detailed guide on LCD screen firmware update can be found on the [Elegoo 
     pip install pyserial
 
 ### Get the code
-    git clone https://github.com/joakimtoe/KlipperLCD
+    git clone https://github.com/maxiwolleb/KlipperLCD
     cd KlipperLCD
 
 ### Configure the code
